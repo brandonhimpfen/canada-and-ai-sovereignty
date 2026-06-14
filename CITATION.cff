@@ -1,0 +1,17 @@
+
+cff-version: 1.2.0
+title: "Canada and AI Sovereignty: Assessing the Current State of National AI Capacity"
+message: "If you use this research paper, please cite it using the metadata below."
+type: report
+authors:
+  - family-names: "Himpfen"
+    given-names: "Brandon"
+license: "CC-BY-4.0"
+abstract: >
+  A foundational research paper examining Canada's AI sovereignty position through infrastructure, compute, governance, cloud dependency, energy systems, and strategic national capacity.
+keywords:
+  - Artificial Intelligence
+  - AI Sovereignty
+  - Canada
+  - AI Governance
+  - Digital Infrastructure
